@@ -1,1 +1,3 @@
 # ip-technical-distance-measure
+
+The purpose of this project was to ...
